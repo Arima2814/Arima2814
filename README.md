@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola, soy Erik! 👋🚀
 
-<!--
-**Arima2814/Arima2814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador en crecimiento, un apasionado de la tecnología y un eterno aprendiz. Me encanta enfrentar nuevos retos y construir soluciones que aporten valor real. 
 
-Here are some ideas to get you started:
+Actualmente me desempeño en el área de programación, colaborando activamente en el desarrollo de aplicaciones web nativas de uso interno para agilizar y mejorar procesos empresariales. ¡Todos los días descubro algo nuevo y me emociona seguir mejorando mis habilidades! 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Mi Formación
+Soy orgullosamente egresado de la **Universidad Fidel Velázquez**, donde estudié mi:
+* **TSU en Infraestructura y Redes Digitales**
+* **Ingeniería en Redes Inteligentes y Ciberseguridad**
+
+### 💻 Stack Actual
+Me desenvuelvo creando código limpio y funcional con:
+* **HTML | CSS | JavaScript | PHP | Python**
+
+### 🎯 Mi Gran Meta
+Mi objetivo a largo plazo es convertirme en un **Arquitecto de Soluciones con Enfoque en Ciberseguridad**. Para construir ese camino, estoy enfocando mi aprendizaje hacia la automatización, la infraestructura y la auditoría, buscando dominar lenguajes clave como **Bash, Go y Python**.
+
+¡Siempre estoy abierto a conectar, compartir conocimientos y platicar sobre redes, código o ciberseguridad! 🌐🤝
