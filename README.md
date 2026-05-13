@@ -29,4 +29,4 @@ Mi objetivo a largo plazo es convertirme en un **Arquitecto de Soluciones con En
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/> </a>
 </p>
 
-¡Siempre estoy abierto a conectar, compartir conocimientos y platicar sobre redes, código o ciberseguridad! 🌐🤝
+¡Siempre estoy abierto a conectar, compartir conocimientos y platicar sobre redes, código o ciberseguridad! 🤝
