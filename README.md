@@ -20,7 +20,7 @@ Me desenvuelvo creando código limpio y funcional con:
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/> </a>
 </p>
 
-### 🎯 Mi Gran Meta
+###  Mi Gran Meta
 Mi objetivo a largo plazo es convertirme en un **Arquitecto de Soluciones con Enfoque en Ciberseguridad**. Para construir ese camino, estoy enfocando mi aprendizaje hacia la automatización, la infraestructura y la auditoría, buscando dominar lenguajes clave como:
 
 <p align="left">
