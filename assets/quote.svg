@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+<rect width="900" height="120" rx="12" fill="#000"/>
+<rect x="0.5" y="0.5" width="899" height="119" rx="12" fill="none" stroke="#2a3d2a"/>
+<g font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" fill="#a8e6a3">
+<text x="28" y="34" font-size="13" fill="#5e8a5b">// quote.txt</text>
+<text x="28" y="66" font-size="17">"La inteligencia es la habilidad de evitar hacer el trabajo,</text>
+<text x="28" y="92" font-size="17"> consiguiendo el trabajo hecho."<tspan fill="#5e8a5b">  — Linus Torvalds</tspan></text>
+</g></svg>

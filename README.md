@@ -8,34 +8,14 @@ Vengo del mundo de las redes. Pasé buen tiempo entre switches, routers y alerta
 
 Así que empecé a programar para resolver eso. Hoy hago las dos cosas: **mantengo infraestructura de red y construyo sistemas a la medida** para que la gente deje de pelearse con su trabajo diario.
 
-```
-erik#show running-config
-!
-hostname Erik
- role         Redes e infraestructura + Desarrollo web y móvil
- location     México
- education    TSU Infraestructura y Redes Digitales
- education    Ing. Redes Inteligentes y Ciberseguridad
-!
-interface Redes
- description  Cisco | Huawei | Teldat | monitoreo con PRTG
- no shutdown
-!
-interface Desarrollo
- description  Laravel | PHP | Vue | Flutter | MySQL
- no shutdown
-!
-router aprendizaje
- network      Automatizacion-de-red-con-Python
- network      Linux-y-Bash
- network      Go
- network      Ciberseguridad
-!
-end
-```
+<p align="center">
+  <img src="assets/config.svg" alt="show running-config de Erik: redes e infraestructura, desarrollo web y móvil, aprendiendo Python, Bash, Go y ciberseguridad" width="58%"/>
+  <img src="assets/imagen.jpg" alt="Escritorio de programación de noche" width="38%"/>
+</p>
 
-> *"La inteligencia es la habilidad de evitar hacer el trabajo, consiguiendo el trabajo hecho."*
-> — Linus Torvalds
+<p align="center">
+  <img src="assets/quote.svg" alt="La inteligencia es la habilidad de evitar hacer el trabajo, consiguiendo el trabajo hecho. — Linus Torvalds" width="96%"/>
+</p>
 
 ## 🧰 A qué me dedico
 
